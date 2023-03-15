@@ -11,7 +11,7 @@
 
 Hint: first create the logic steps using pseudo-code(aka write the logic using comments in your js file)
 
-## Instructions
+## Instructions 
 
 Write a program that returns:
 1. "fizz" in the case where the number passed as a parameter is a multiple of 3.
