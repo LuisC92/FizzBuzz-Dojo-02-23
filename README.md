@@ -1,6 +1,6 @@
 # Dojo Fizzbuzz
 
-### 
+###
 
 ## Use
 
@@ -14,6 +14,7 @@ Hint: first create the logic steps using pseudo-code(aka write the logic using c
 ## Instructions
 
 Write a program that returns:
+
 1. "fizz" in the case where the number passed as a parameter is a multiple of 3.
 2. "buzz" in the case where the number passed in parameter is a multiple of 5
 3. "fizzbuzz" in the case where the past number is a multiple of both 3 and 5

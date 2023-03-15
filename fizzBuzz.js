@@ -1,7 +1,19 @@
-const fizzBuzz = () => {
-  // Start here
-};
+const fizzBuzz = (buzzFizz) => {
+  if (buzzFizz % 3 == 0) {
+    console.log(`fizz`); 
 
+  } else if (buzzFizz % 5 == 0) {
+    console.log(`buzz`);
+
+  } else if (buzzFizz % 3 , 5 == 0) {
+    console.log(`fizzbuzz`); 
+
+  } else {
+    console.log(`buzzFizz`);
+  }
+  /*the number in the case where the latter 
+  is neither a multiple of 3 nor a multiple of 5*/
+};
 // Check your console.log on the browser console and match all outputs
 console.log(fizzBuzz(3)); // fizz
 console.log(fizzBuzz(6)); // fizz
